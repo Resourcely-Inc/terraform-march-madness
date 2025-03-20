@@ -4,4 +4,4 @@ This Terraform structure uses `terraform graph` to create a March Madness bracke
 
 Current bracket:
 
-![Current bracket]("./bracket.png")
+![Current bracket](./bracket.png)
